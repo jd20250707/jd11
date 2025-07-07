@@ -13,4 +13,4 @@
 此外，许多站点会提供备用域名或镜像站，防止主站被封时无法访问。站点使用海外服务器或CDN加速，提升视频加载速度和播放稳定性，避免卡顿。为了不漏掉最新资源，用户可以定期查看站点的每日更新或热门影片榜单，确保及时获取新片。
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/jd20250707/jd11 ）</span>
